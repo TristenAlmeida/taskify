@@ -1,8 +1,12 @@
 import { registerRootComponent } from 'expo';
+import * as Linking from 'expo-linking';
+import { enableScreens } from 'react-native-screens';
+import 'react-native-gesture-handler';
+import Svg, { Path } from 'react-native-svg';
 
-import App from './App';
+import {App} from './App';
 
-// registerRootComponent calls AppRegistry.registerComponent('main', () => App);
-// It also ensures that whether you load the app in Expo Go or in a native build,
-// the environment is set up appropriately
+enableScreens();
+
+
 registerRootComponent(App);
