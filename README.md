@@ -47,3 +47,6 @@
 #### Delete Task Screen
 <img width="436" height="900" alt="image" src="https://github.com/user-attachments/assets/9c293f17-cd4f-4456-9314-8bbb36fdffda" />
 
+#### Streaks Screen
+<img width="492" height="1020" alt="image" src="https://github.com/user-attachments/assets/ab271b22-179e-4df1-a112-0f9bcd2f4b4a" />
+
